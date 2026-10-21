@@ -100,7 +100,7 @@ The findings compare organizational strategies, technical decisions, implementat
 
 The complete academic research report, including supporting citations and references, is available in the repository's `Report` folder.
 
-[View Research Report](Report/)
+[📄 View Full Research Report](A%20Comparative%20Analysis%20of%20SAP%20Implementation%20Case%20Studies%20in%20Success%20and%20Failure%20at%20Siemens%20Healthineers%20and%20Lidl.pdf)
 
 ## Skills Demonstrated
 
